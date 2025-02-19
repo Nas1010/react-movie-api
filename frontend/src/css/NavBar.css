@@ -34,12 +34,12 @@
 }
 
 .nav-link:hover {
-  background-color: #ff66b2;
+  background-color: #3665a3;
   color: white;
 }
 
 .navbar .nav-link.active {
-  background-color: #ff3385;
+  background-color: #3665a3;
 }
 
 @media (max-width: 768px) {

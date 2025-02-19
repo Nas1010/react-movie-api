@@ -44,7 +44,7 @@ a {
 }
 
 a:hover {
-  color: #8e24aa;
+  color: #3665a3;
 }
 
 h1 {
@@ -66,7 +66,7 @@ button {
 }
 
 button:hover {
-  border-color: #ff4081;
+  border-color: #033679;
 }
 
 button:focus,
@@ -81,7 +81,7 @@ button:focus-visible {
   }
 
   a:hover {
-    color: #9c27b0;
+    color: #3665a3;
   }
 
   button {
