@@ -27,6 +27,10 @@ To run this project locally:
 
 4. Run the application: npm run dev
 
+# Deployment
+
+- Deployed on Vercel: https://react-movie-api-self.vercel.app/
+
 # Usage
 
 - Search for Movies: Type the name of a movie in the search bar and hit enter to see the results.
